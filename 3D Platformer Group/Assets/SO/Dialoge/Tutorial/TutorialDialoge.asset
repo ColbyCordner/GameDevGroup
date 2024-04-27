@@ -15,7 +15,16 @@ MonoBehaviour:
   dialogue:
   - 'To Jump
 
-    PC- press Space bar
+    PC- press Space bar, Controller- Press X
 
-    Controller- Press X'
-  responses: []
+    Collect coins to
+    buy upgrads at wizard tower'
+  - 'To Jump
+
+    PC- press Space bar, Controller- Press X
+
+    Collect coins to
+    buy upgrads at wizard tower'
+  responses:
+  - responseText: 
+    dialogueData: {fileID: 0}
